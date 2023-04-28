@@ -1,6 +1,6 @@
 <!-- <h4 align="center">
 
-NOW YOU LIKE BEHIND THE SCENE 😏
+YOU SURE LIKE BEHIND THE SCENE 😏
       WELCOME ANYWAYS!
 
 ```
@@ -33,7 +33,7 @@ NOW YOU LIKE BEHIND THE SCENE 😏
 
 ### Hello There <img src="https://raw.githubusercontent.com/KrAsH-CoD3/KrAsH-CoD3/main/images/waving%20palm.gif" width="30px">, I'm Samuel Alewi
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&font=Courgette&lines=Continuous+Learner;Cybersecurity+Enthusiasm;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&font=Courgette&lines=Cybersecurity+Enthusiasm;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 
 I love building, developing and slapping my keyboard till something works. :collision:
 
