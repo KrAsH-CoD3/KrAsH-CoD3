@@ -74,9 +74,11 @@ I love building, developing and slapping my keyboard till something works. :coll
 <p align="center">
   <img src="https://raw.githubusercontent.com/KrAsH-CoD3/KrAsH-CoD3/main/images/contribution%20snake%20grid.gif" width="700" />
   <img src="https://github.com/KrAsH-CoD3/KrAsH-CoD3/blob/output/github-contribution-grid-snake.svg" />
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&duration=3000&pause=1000&color=635DF7&width=435&center=true&lines=Thank+you+for+visiting+%F0%9F%90%B3;Have+a+nice+one!" alt="Typing SVG" />
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&duration=3000&pause=1000&color=635DF7&width=435&center=true&lines=Thank+you+for+visiting.;Have+a+nice+one!" alt="Typing SVG" />
 </p>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KrAsH-CoD3/KrAsH-CoD3/main/images/Sleeping%20Cat.gif" height="40"/>
+</div>   
 <p align="right">
   <a href="#top">
     <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=635DF7&style=flat&logo" alt="Back To Top" />
