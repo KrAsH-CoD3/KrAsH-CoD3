@@ -44,7 +44,7 @@ I love building, developing and slapping my keyboard till something works. :coll
 - 🔭 I'm a student studying Computer Science and taking cybersecurity course.
 - 🌱 I’m currently learning Javascript while mastering Django.
 - 👯 I’m looking to collaborate on open source projects and build more projects.
-- ⚡ Fun fact: I am a jovial, social and hardworking person who loves music and video game. I wouldn't say i love football because most times i do not have interest to always watch (I've got bug to fix 😕).
+- ⚡ Fun fact: I am a jovial, social and hardworking person who loves music and video game. I wouldn't consider myself a passionate football fan, as I often lack the interest to watch it(I've got bug to fix 😕).
 
 
 <h3 align="left">Connect with me:</h3>
