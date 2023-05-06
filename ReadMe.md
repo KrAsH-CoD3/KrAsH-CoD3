@@ -38,7 +38,7 @@ YOU SURE LIKE BEHIND THE SCENE 😏
 I love building, developing and slapping my keyboard till something works. :collision:
 
 ### About Me:
-- 😶‍🌫️ Backend developer
+- 😶 Backend developer
 - 🦋 I enjoy writing scripts (automation)
 - 🔁 I love learning new stuff
 - 🔭 I'm a student studying Computer Science and taking cybersecurity course.
