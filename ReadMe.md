@@ -56,14 +56,14 @@ I love building, developing and slapping my keyboard till something works. :coll
 
 ### Skill & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,md,py,django,git" /></br>
-  <img src="https://skillicons.dev/icons?i=github,regex,selenium,bots,mongodb,mysql,postgres,wordpress,ableton" /></br>
-  <img src="https://skillicons.dev/icons?i=postman,fastapi,sqlite,vscode,linux,powershell,docker,aws" /></br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" /></br>
+  <img src="https://skillicons.dev/icons?i=py,js,django,git,selenium,mysql" /></br> <!-- md,mongodb,regex,github,ableton,bots,postgres,wordpress, -->
+<!--   <img src="https://skillicons.dev/icons?i=postman,fastapi,sqlite,vscode,linux,powershell,docker,aws" /></br> -->
 </p>
 
-
+<!--
 ### Resume's
- - [Github Generated Resume](https://resume.github.io/?KrAsH-CoD3)
+ - [Github Generated Resume](https://resume.github.io/?KrAsH-CoD3) -->
 
 
 ### 📫 GitHub Stats
@@ -72,8 +72,8 @@ I love building, developing and slapping my keyboard till something works. :coll
 | <a href="https://github.com/KrAsH-CoD3/KrAsH-CoD3"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KrAsH-CoD3&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="KrAsH-CoD3's github stats" /></a>  |   <a href="https://github.com/KrAsH-CoD3/KrAsH-CoD3"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrAsH-CoD3&langs_count=5" /></a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KrAsH-CoD3/KrAsH-CoD3/main/images/contribution%20snake%20grid.gif" width="700" />
-  <img src="https://github.com/KrAsH-CoD3/KrAsH-CoD3/blob/output/github-contribution-grid-snake.svg" />
+<!--   <img src="https://raw.githubusercontent.com/KrAsH-CoD3/KrAsH-CoD3/main/images/contribution%20snake%20grid.gif" width="700" /> -->
+<!--   <img src="https://github.com/KrAsH-CoD3/KrAsH-CoD3/blob/output/github-contribution-grid-snake.svg" /> -->
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&duration=3000&pause=1000&color=635DF7&width=435&center=true&lines=Thank+you+for+visiting.;Have+a+nice+one!" alt="Typing SVG" />
 </p>
 <div align="center">
