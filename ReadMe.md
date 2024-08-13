@@ -39,10 +39,10 @@ I love building, developing and slapping my keyboard till something works. :coll
 
 ### About Me:
 - 😶 Backend developer
-- 🦋 I enjoy writing scripts (automation)
-- 🔁 I love learning new stuff
+- 🦋 I enjoy writing scripts (automation). 
+- 🔁 I love learning new stuff. 
 - 🌱 I’m currently mastering Django.
-- 🔭 I recently concluded my Computer Science programme and now learning cybersecurity.
+- 🔭 I'm on path to become a cybersecurity expert.
 - 👯 I’m looking to collaborate on open-source projects and build more projects.
 - ⚡ Fun fact: I am a jovial, social and hardworking person who loves music and video games. I wouldn't consider myself a passionate football fan, as I often lack the interest to watch it(I've got bug to fix 😕).
 
