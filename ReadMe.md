@@ -30,7 +30,6 @@ YOU SURE LIKE BEHIND THE SCENE 😏
 **KrAsH-CoD3/KrAsH-CoD3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
 ### Hello There <img src="https://raw.githubusercontent.com/KrAsH-CoD3/KrAsH-CoD3/main/images/waving%20palm.gif" width="30px">, I'm Samuel.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&font=Courgette&lines=Cybersecurity+Enthusiasm;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
@@ -75,10 +74,15 @@ I love building, developing and slapping my keyboard till something works. :coll
 | <a href="https://github.com/KrAsH-CoD3/KrAsH-CoD3"><img align="center" src="https://github-readme-stats.vercel.app/api?username=krash-cod3&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="KrAsH-CoD3's github stats" /></a>  |   <a href="https://github.com/KrAsH-CoD3/KrAsH-CoD3"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrAsH-CoD3&hide_progress=true" /></a>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
+</p>
+
+<p align="center">
 <!--   <img src="https://raw.githubusercontent.com/KrAsH-CoD3/KrAsH-CoD3/main/images/contribution%20snake%20grid.gif" width="700" /> -->
 <!--   <img src="https://github.com/KrAsH-CoD3/KrAsH-CoD3/blob/output/github-contribution-grid-snake.svg" /> -->
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&duration=3000&pause=1000&color=635DF7&width=435&center=true&lines=Thank+you+for+visiting.;Have+a+nice+one!" alt="Typing SVG" />
 </p>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/KrAsH-CoD3/KrAsH-CoD3/main/images/Sleeping%20Cat.gif" height="40"/>
 </div>   
