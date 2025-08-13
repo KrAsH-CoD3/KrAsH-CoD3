@@ -58,7 +58,7 @@ I love building, developing and slapping my keyboard till something works. :coll
 <!--   <img src="https://skillicons.dev/icons?i=html,css,tailwind" /></br> -->
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind" /></br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py,js,django,selenium,playwright" /></br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,mysql,postgres" /></br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,mysql,postgres,postman" /></br>
 <!--   <img src="https://skillicons.dev/icons?i=py,js,django,git,selenium,playwright,mysql" /></br> <!-- md,mongodb,regex,github,ableton,bots,postgres,wordpress, --> 
 <!--   <img src="https://skillicons.dev/icons?i=postman,fastapi,sqlite,vscode,linux,powershell,docker,aws" /></br> -->
 </p>
