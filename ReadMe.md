@@ -37,13 +37,15 @@ YOU SURE LIKE BEHIND THE SCENE 😏
 I love building, developing and slapping my keyboard till something works. :collision:
 
 ### About Me:
-- 😶 Backend developer
-- 🦋 I enjoy writing scripts (automation). 
-- 🔁 I love learning new stuff. 
-- 🌱 I’m currently mastering Django.
-- 🔭 I'm on path to become a cybersecurity expert.
-- 👯 I’m open to collaboration and building more projects.
+- 🦋 I enjoy writing scripts. 
+- 🔁 I love learning new stuff.
+- 🔭 I'm on the path to becoming a cybersecurity expert.
+- 👯 I’m open to collaboration and turning your idea into a fully-fledged application..
+
+<!-- - 😶 Backend developer -->
+<!-- - 🌱 I’m currently mastering Django. -->
 <!-- - ⚡ Fun fact: I am a jovial, social and hardworking person who loves music and video games. I wouldn't consider myself a passionate football fan, as I often lack the interest to watch it(I've got bug to fix 😕). -->
+
 
 
 <h3 align="left">Connect with me:</h3>
