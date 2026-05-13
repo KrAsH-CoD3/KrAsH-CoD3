@@ -55,8 +55,8 @@ A backend engineer who love building, developing and slapping my keyboard till s
 ### Skill & Tools
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js" /></br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,django,fastapi,playwright,selenium,docker,celery" /></br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,mysql,postgres,mongodb,redis,kafka" /></br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,django,fastapi,playwright,selenium,docker,git" /></br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,mongodb,redis,celery,kafka" /></br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,googlecloud,vercel,railway,render" /></br>
 </p>
 
