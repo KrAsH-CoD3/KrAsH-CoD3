@@ -32,15 +32,14 @@ YOU SURE LIKE BEHIND THE SCENE 😏
 
 ### Hello There <img src="https://raw.githubusercontent.com/KrAsH-CoD3/KrAsH-CoD3/main/images/waving%20palm.gif" width="30px">, I'm Samuel.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&font=Courgette&lines=Problem+Solver;Cybersecurity+Practitioner;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&font=Courgette&lines=Establishing+Engineering+Best+Practices;Backend+Systems+At+Scale;Defeating+Advanced+Anti-Bot+Protections;Cybersecurity+Practitioner;)](https://git.io/typing-svg)
 
 A backend engineer who love building, developing and slapping my keyboard till something works. :collision:
 
 ### About Me:
 - 🦋 I enjoy writing scripts. 
 - 🔁 I love learning new stuff.
-- 🔭 I'm on the path to becoming a cybersecurity expert.
-- 👯 I’m open to job offer, collaboration and turning your idea into a fully-fledged application..
+- 👯 I’m open to job offer, collaboration and turning your idea into a fully-fledged application.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -68,7 +67,11 @@ A backend engineer who love building, developing and slapping my keyboard till s
 ### 📫 GitHub Stats
 | General         | Most Used Languages |
 |--------------|:-----:|
-| <a href="https://github.com/KrAsH-CoD3/KrAsH-CoD3"><img align="center" src="https://github-readme-stats.vercel.app/api?username=krash-cod3&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="KrAsH-CoD3's github stats" /></a>  |   <a href="https://github.com/KrAsH-CoD3/KrAsH-CoD3"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrAsH-CoD3&hide_progress=true" /></a>
+| <a href="https://github.com/KrAsH-CoD3/KrAsH-CoD3">
+<!--  FIX THE BELOW(BOTH ARE NOT WORKING) -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=krash-cod3&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="KrAsH-CoD3's github stats" /> -->
+![trophy](https://github-profile-trophy.vercel.app/?username=krash-cod3) 
+</a>  |   <a href="https://github.com/KrAsH-CoD3/KrAsH-CoD3"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrAsH-CoD3&hide_progress=true" /></a>
 
 <!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
@@ -85,6 +88,6 @@ A backend engineer who love building, developing and slapping my keyboard till s
 </div>   
 <p align="right">
   <a href="#top">
-    <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=635DF7&style=flat&logo" alt="Back To Top" />
+    <img src="https://img.shields.io/static/v1?label&message=Back+To+Top&color=635DF7&style=flat&logo" alt="Back To Top" />
   </a>
 </p>
