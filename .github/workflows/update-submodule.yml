@@ -21,7 +21,7 @@ jobs:
 
       - name: Update Submodule
         run: |
-          git submodule update --remote --merge Portfolio
+          git submodule update --remote Portfolio
 
       - name: Commit Changes
         run: |
