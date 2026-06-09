@@ -21,7 +21,8 @@ jobs:
 
       - name: Update Submodule
         run: |
-          git submodule update --remote Portfolio
+          git submodule sync --recursive
+          git submodule update --init --remote Portfolio
 
       - name: Commit Changes
         run: |
